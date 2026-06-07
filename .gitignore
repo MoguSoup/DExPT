@@ -1,0 +1,13 @@
+dataset/
+logs/
+test_results/
+checkpoints/
+result.txt
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+.codex_tmp/
+.ipynb_checkpoints/
+.idea/
